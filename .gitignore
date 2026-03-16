@@ -211,3 +211,6 @@ data/
 results/logs/
 *.pt
 *.pth
+
+# Claude Code
+.claude/
